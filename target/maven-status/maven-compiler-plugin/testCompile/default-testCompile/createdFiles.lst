@@ -1,0 +1,4 @@
+com\example\ci\GreetingProviderPactTest.class
+com\example\ci\GreetingControllerIntegrationTest.class
+com\example\ci\GreetingControllerUnitTest.class
+com\example\ci\PostgresContainerTest.class
